@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="AppMobileUF5.Views.TodayActivities"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.Content   >
+        <StackLayout  >
+            
+            <Grid Padding="0" Margin="10,10">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+
+
+
+                </Grid.ColumnDefinitions>
+                <Label Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Text="Utente: " FontSize="Large" BackgroundColor="White"/>
+                <Label Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" Text="Attività: " FontSize="Large" BackgroundColor="White"/>
+
+                <!--<Label Grid.Row="1" x:Name="attname" Grid.Column="1" Grid.ColumnSpan="2" Text="{Binding Title}" HorizontalTextAlignment="Center" FontSize="Large" BackgroundColor="LightCoral"/>--> 
+                
+                
+                <Label Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Text="Luogo: " FontSize="Large" BackgroundColor="White"/>
+                <Label Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Text="Orario: " FontSize="Large" BackgroundColor="White"/>
+                <Button Text="CHECK-IN" BackgroundColor="#00cc00" FontSize="Large" Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2" Margin="10,10"/>
+                <Button Text="CHECK-OUT" BackgroundColor="#ff0000" FontSize="Large" Grid.Column="0" Grid.Row="6" Grid.ColumnSpan="2" Margin="10,10"/>
+
+
+
+
+            </Grid>
+         
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

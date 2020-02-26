@@ -1,0 +1,16 @@
+C:\Users\ITS46\source\repos\AppMobileUF5\AppMobileUF5\AppMobileUF5\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ITS46\source\repos\AppMobileUF5\AppMobileUF5\AppMobileUF5\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\ITS46\source\repos\AppMobileUF5\AppMobileUF5\AppMobileUF5\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\ITS46\source\repos\AppMobileUF5\AppMobileUF5\AppMobileUF5\obj\Debug\netstandard2.0\Views\PastActivities.xaml.g.cs
+C:\Users\ITS46\source\repos\AppMobileUF5\AppMobileUF5\AppMobileUF5\obj\Debug\netstandard2.0\Views\TodayActivities.xaml.g.cs
+C:\Users\ITS46\source\repos\AppMobileUF5\AppMobileUF5\AppMobileUF5\obj\Debug\netstandard2.0\AppMobileUF5.AssemblyInfoInputs.cache
+C:\Users\ITS46\source\repos\AppMobileUF5\AppMobileUF5\AppMobileUF5\obj\Debug\netstandard2.0\AppMobileUF5.AssemblyInfo.cs
+C:\Users\ITS46\source\repos\AppMobileUF5\AppMobileUF5\AppMobileUF5\bin\Debug\netstandard2.0\AppMobileUF5.deps.json
+C:\Users\ITS46\source\repos\AppMobileUF5\AppMobileUF5\AppMobileUF5\bin\Debug\netstandard2.0\AppMobileUF5.dll
+C:\Users\ITS46\source\repos\AppMobileUF5\AppMobileUF5\AppMobileUF5\bin\Debug\netstandard2.0\ref\AppMobileUF5.dll
+C:\Users\ITS46\source\repos\AppMobileUF5\AppMobileUF5\AppMobileUF5\bin\Debug\netstandard2.0\AppMobileUF5.pdb
+C:\Users\ITS46\source\repos\AppMobileUF5\AppMobileUF5\AppMobileUF5\obj\Debug\netstandard2.0\AppMobileUF5.csprojAssemblyReference.cache
+C:\Users\ITS46\source\repos\AppMobileUF5\AppMobileUF5\AppMobileUF5\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ITS46\source\repos\AppMobileUF5\AppMobileUF5\AppMobileUF5\obj\Debug\netstandard2.0\AppMobileUF5.dll
+C:\Users\ITS46\source\repos\AppMobileUF5\AppMobileUF5\AppMobileUF5\obj\Debug\netstandard2.0\ref\AppMobileUF5.dll
+C:\Users\ITS46\source\repos\AppMobileUF5\AppMobileUF5\AppMobileUF5\obj\Debug\netstandard2.0\AppMobileUF5.pdb
